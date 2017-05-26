@@ -13,3 +13,6 @@ bk
 bk*
 README*.md
 !README-*.md
+
+# JetBrains
+.idea/
